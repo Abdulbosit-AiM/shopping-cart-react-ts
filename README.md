@@ -1,3 +1,3 @@
 # Shopping Cart using React on TypeScript
 
-> Professional fike structure is used
+> Professional file structure is used
